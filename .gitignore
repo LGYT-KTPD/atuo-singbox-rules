@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# build logs
+log/
+
+# temporary output
+output/
+
+# release archive
+release/*.zip
+
+# nested git repositories
+source/*/.git/
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,13 @@
+atuo-singbox rule-set
+
+build:
+2026年 8月 3日 星期一 17时20分47秒 CST
+
+source:
+meta-rules-dat
+
+geosite:
+selected
+
+geoip:
+selected
